@@ -1,4 +1,4 @@
-<img align="right" alt="coding" width=100% src="[https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216](https://i.ibb.co/cT4CF2c/w-EB-DEVELOPER.png)">
+<img  alt="coding"  src="https://i.ibb.co/cT4CF2c/w-EB-DEVELOPER.png">
 <h1 align="center">Hi 👋, I'm Ekramul Hassan</h1>
 <h3 align="center">Web Developer</h3>
 
