@@ -1,4 +1,4 @@
-<img  alt="coding"  src="https://i.ibb.co/cT4CF2c/w-EB-DEVELOPER.png">
+<img  alt="coding"  src="[https://i.ibb.co/cT4CF2c/w-EB-DEVELOPER.png](https://i.ibb.co/0DQNW7k/Untitled-design-1.png)">
 <h1 align="center">Hi 👋, I'm Ekramul Hassan</h1>
 <h3 align="center">Web Developer</h3>
 
