@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Ekramul Hassan</h1>
 <h3 align="center">Web Developer</h3>
 
-<img align="right" alt="coding" width="400" src="https://media1.tenor.com/images/cd37fa49c983ac905df0016fd5b6a2ee/tenor.gif?itemid=13165216">
-
 # 💫 About Me:
 Hi, I am Rajdip Ghosh<br>Software Development Engineer<br>Experienced software engineer with over 3+ years of hands-on experience in both product and service-based environments, as well as startups. Skilled in writing clean, reusable, and scalable code using Angular, React, Node.js, and MongoDB, SQL. Proven track record of driving innovation and efficiency in software development, adept at thriving in collaborative, fast- paced startup environments.
 
