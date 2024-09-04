@@ -6,10 +6,10 @@
 Hi, I am Ekramul Haque<br>Web Developer<br>Experienced with over 1+ years of hands-on experience in both product and service-based environments, as well as startups. Skilled in writing clean, reusable, and scalable code using Angular, React, Node.js, MongoDB, SQL, and more. Proven track record of driving innovation and efficiency in software development, adept at thriving in collaborative, fast-paced startup environments.
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/raazdeepghosh) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rajdipghosh) 
-[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@rajdip.ghosh) 
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/raazdeepghosh) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]() 
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)]() 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/) 
 
 # 💻 Skills:
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) 
