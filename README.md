@@ -3,7 +3,7 @@
 <h3 align="center">Web Developer</h3>
 
 # 💫 About Me:
-Hi, I am Ekramul Haque<br>Web Developer<br>Experienced with over 1+ years of hands-on experience in both product and service-based environments, as well as startups. Skilled in writing clean, reusable, and scalable code using Angular, React, Node.js, MongoDB, SQL, and more. Proven track record of driving innovation and efficiency in software development, adept at thriving in collaborative, fast-paced startup environments.
+Hi, I am Ekramul Haque<br>Web Developer<br>Experienced with over 1+ years of hands-on experience in both product and service-based environments, as well as startups. Skilled in writing clean, reusable, and scalable code using Angular, React, Node.js, MongoDB, and more. Proven track record of driving innovation and efficiency in software development, adept at thriving in collaborative, fast-paced startup environments.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/) 
@@ -20,7 +20,7 @@ Hi, I am Ekramul Haque<br>Web Developer<br>Experienced with over 1+ years of han
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/express.js-6DA55F?style=for-the-badge&logo=express.js&logoColor=white) 
 ![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
+
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
 ![shadcn/ui](https://img.shields.io/badge/shadcn/ui-%234A90E2.svg?style=for-the-badge&logo=shadcn&logoColor=white)
