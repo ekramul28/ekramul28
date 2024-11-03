@@ -20,7 +20,7 @@ Hello, I am **Ekramul Haque**, a junior **full stack developer** based in Dhaka,
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohinranait&theme=violet-punch&border_radius=4&mode=weekly)](https://git.io/streak-stats)
 
-## My Skill set
+## My Skill Set
 
 ### Frontend
 
@@ -28,15 +28,17 @@ Hello, I am **Ekramul Haque**, a junior **full stack developer** based in Dhaka,
 
 ### Backend
 
-[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql&perline=4)](https://skillicons.dev)
+
 ### Libraries
 
-[![My Skills](https://skillicons.dev/icons?i=materialui,antdesign,nextui)](https://skillicons.dev)
-![shadcn/ui](https://via.placeholder.com/32x32.png?text=shadcn)
+[![My Skills](https://skillicons.dev/icons?i=materialui,antdesign,nextui,prisma)](https://skillicons.dev)
+![shadcn/ui](https://via.placeholder.com/32x32.png?text=shadcn) ![Mongoose](https://via.placeholder.com/32x32.png?text=Mongoose)
 
 ### Tools
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify&perline=6)](https://skillicons.dev)
+
 
 ## 🌐 Stats
 
