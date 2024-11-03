@@ -7,9 +7,9 @@ Hello, I am **Ekramul Haque**, a junior **full stack developer** based in Dhaka,
 <!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;Nice+to+see+you+here+%F0%9F%91%8B;Feel+free+to+explore+and+connect!)](https://git.io/typing-svg) -->
 
 ### Contact with me
-🌐 Portfolio: [**thecodermehedi**](https://ekramu-portfolio.vercel.app/)
+🌐 Portfolio: [**EkramulPortfolio**](https://ekramu-portfolio.vercel.app/)
 
-📧 mdekramulhassan168@gmail.com
+📧 Email:[**Ekramul Haque**] mdekramulhassan168@gmail.com
 
 <p align="">
   <a href="https://www.linkedin.com/md-ekramul-haque-7ba46632a" target="_blank"><img height="75" src="https://raw.githubusercontent.com/rocktohq/rocktohq/main/assets/images/linkedin.png" /></a>
