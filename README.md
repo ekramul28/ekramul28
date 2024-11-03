@@ -54,7 +54,7 @@ Hello, I am **Ekramul Haque**, a junior **full stack developer** based in Dhaka,
 
 
 ##
-![snake gif](https://github.com/ekramul28/ekramul28/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/ekramul28/ekramul28/blob/output/github-contribution-grid-snake-dark.svg)
 
 
 
