@@ -29,6 +29,9 @@ Hello, I am **Ekramul Haque**, a junior **full stack developer** based in Dhaka,
 ### Backend
 
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3)](https://skillicons.dev)
+### Libraries
+
+[![My Skills](https://skillicons.dev/icons?i=materialui,shadcnui,antdesign,nextui=3)](https://skillicons.dev)
 
 ### Tools
 
@@ -53,8 +56,7 @@ Hello, I am **Ekramul Haque**, a junior **full stack developer** based in Dhaka,
 <img style="height: 270; width: 100%;" alt="Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=thecodermehedi&theme=github-dark-blue&hide_border=true&stroke=0D1117" />
 
 
-##
-![snake gif](https://github.com/ekramul28/ekramul28/blob/output/github-contribution-grid-snake-dark.svg)
+
 
 
 
