@@ -31,7 +31,8 @@ Hello, I am **Ekramul Haque**, a junior **full stack developer** based in Dhaka,
 [![My Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb&perline=3)](https://skillicons.dev)
 ### Libraries
 
-[![My Skills](https://skillicons.dev/icons?i=materialui,shadcnui,antdesign,nextui=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=materialui,antdesign,nextui)](https://skillicons.dev)
+![shadcn/ui](https://via.placeholder.com/32x32.png?text=shadcn)
 
 ### Tools
 
