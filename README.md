@@ -9,7 +9,7 @@ Hello, I am **Ekramul Haque**, a junior **full stack developer** based in Dhaka,
 ### Contact with me
 🌐 Portfolio: [**EkramulPortfolio**](https://ekramu-portfolio.vercel.app/)
 
-📧 Email:[**Ekramul Haque**] mdekramulhassan168@gmail.com
+📧 Email:[**Ekramul Haque**](mdekramulhassan168@gmail.com)
 
 <p align="">
   <a href="https://www.linkedin.com/md-ekramul-haque-7ba46632a" target="_blank"><img height="75" src="https://raw.githubusercontent.com/rocktohq/rocktohq/main/assets/images/linkedin.png" /></a>
@@ -24,7 +24,7 @@ Hello, I am **Ekramul Haque**, a junior **full stack developer** based in Dhaka,
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,bootstrap,html,css&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,redux,tailwind,bootstrap,html,css&perline=6)](https://skillicons.dev)
 
 ### Backend
 
