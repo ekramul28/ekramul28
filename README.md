@@ -1,10 +1,10 @@
-![The San Juan Mountains are beautiful!](https://raw.githubusercontent.com/mohinranait/mohinranait/main/images/MERN%20Stack%20Developer.png "San Juan Mountains")
+<p align="center" width="500px">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&pause=1000&color=4078C0&center=true&vCenter=true&random=false&width=450&lines=Welcome+to+my+GitHub+profile+%F0%9F%98%87;Happy+to+see+you+here+%F0%9F%98%80;Specializing+in+Full+Stack+Development+%F0%9F%92%BB;Building+Creative+and+Responsive+Web+Apps+%F0%9F%8C%90;Let's+Collaborate+on+Amazing+Projects+%F0%9F%A4%9D;Feel+Free+to+Reach+Out+%F0%9F%A4%97;Have+a+Great+Day+%F0%9F%98%8A" alt="Typing SVG" /></a>
+</p>
 
-## I'm Md Ekramul Haque 👨‍💻
+Hello, I am **Ekramul Haque**, a junior **full stack developer** based in Dhaka, Bangladesh. I specialize in developing creative, user-friendly, responsive, and minimalistic websites and web applications using modern technologies. I am passionate about crafting efficient and scalable solutions, and I excel in dynamic, collaborative environments. Feel free to connect with me to discuss exciting opportunities or potential collaborations.
 
-#### My Objective
-
-I'm a Full Stack developer. I always try to do something unique from everyone and create highly functional web applications. In the last one year I have improved my skills by working with React,Nodejs, Express and MongoDB,Sql. Let's be able to deal with any error due to it. I would also like to say, I am always updating my skills. 👋
+<!-- [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&pause=1000&color=2563EB&center=true&vCenter=true&random=false&width=435&lines=Welcome+to+my+profile!;Nice+to+see+you+here+%F0%9F%91%8B;Feel+free+to+explore+and+connect!)](https://git.io/typing-svg) -->
 
 ### Contact with me
 
@@ -23,7 +23,7 @@ I'm a Full Stack developer. I always try to do something unique from everyone an
 
 ### Frontend
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,react,tailwind,bootstrap,html,css&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,tailwind,bootstrap,html,css&perline=6)](https://skillicons.dev)
 
 ### Backend
 
