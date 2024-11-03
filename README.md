@@ -34,64 +34,29 @@ Hello, I am **Ekramul Haque**, a junior **full stack developer** based in Dhaka,
 
 [![My Skills](https://skillicons.dev/icons?i=git,github,vscode,figma,vercel,netlify&perline=6)](https://skillicons.dev)
 
-## Projects
+## 🌐 Stats
 
-✔ <b>Uminex E-commerce website using MERN Stack</b> -
-( <i> 2023 – Present </i>)
+<!-- ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=thecodermehedi&theme=github_dark) -->
 
-- Role base firebase authentication
-- Live chat ( admin and customers)
-- Frontend: React.js, TanStackQuery, axios, Tailwindcss
-- Backend: Node.js and Express.js ( Mongoose)
-- Live: https://uminex-mern-app.web.app/
-- Github: https://github.com/mohinranait/uminex-ecommerce-client
-- A normal visitor can create an account here and purchase the product of his choice. Payment can be made through Stripe. You can view your order history on your dashboard. Get analytics about its activity, orders. he wanted Can apply to become an admin.
-- An admin has the maximum power of this website. Who can control all these websites.
-- <b>Note</b>: This is my private repository. Contact me if you want to see.
-  <br>
-  <br>
-  <br>
 
-✔ <b>HomeRent - (MERN)</b> -
-( <i> 2024 </i>)
+<!-- ![github-stats](https://stats.dooboo.io/api/github-stats?login=thecodermehedi) -->
 
-- Frontend: Next.JS, Redux, SCSS, Axios,
-- Backend: Node.js and Express.js ( Mongoose)
-- Database: MongoDB
-- JWT authenticaion and Secure API
-- All Responsive
-- Live: https://rent-house-using-nextjs.vercel.app/
-- Github: https://github.com/mohinranait/houseRent-task-using-nextjs
-- RentHouse Appoinment management website created by Latest techonology. Any visitor created an a account and select her role (Renter, Owner). Owner user can be publish a appoinment. and manage her appoinment in your owner dashboard. and user base role can be booking appoinment. There appoinment already booking present monthe.. then can't be bookent current month.  
-  <br>
-  <br>
-  <br>
 
-✔ <b>CourseLog - MERN</b> <i>2023</i>
+  <img style="height: 270; width: 100%;" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=thecodermehedi&layout=compact&hide_border=true&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats\&rank_icon=github&hide_title=true" >
 
-- Frontend: React.js, Axios, Tailwindcss
-- Backend: Node.js and Express.js ( Mongoose)
-- Database : MongoDB
-- JWT authenticaion
-- Responsive layout
-- Live: https://online-course-silling-website.web.app/
-- Github: https://github.com/mohinranait/online-course-selling
-- Online course sales website built with MERN stack. Any login user can enroll in the course. And
-  can sell the course. Modules can be uploaded on a weekly basis..
+<!--  <img style="height: 200; width: 49%;" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodermehedi&layout=compact&langs_count=8&hide_border=true&theme=github_dark&hide_title=true" > -->
 
- <br>
- <br>
- <br>
 
-✔ <b>PMOR | Online conversation website using posts</b> -
-( <i> 2023 </i>)
 
-- Frontend: React.js, TanStackQuery, Axios, Tailwindcss
-- Backend: Node.js and Express.js ( Mongoose)
-- Database: MongoDB
-- Live: https://assignment-12-5d967.web.app/
-- Github: https://github.com/mohinranait/assignment-12-client
-- A user can create an account. When creating an account, he will be a normal user, and he will be able to share up to five posts. If he updates his profile with $30 payment by stripe. Then he can post unlimited. Posts can be shared on social media. Users can comment if they want. Other users can report that comment. Admin can delete or publish that report comment.
-  <br>
-  <br>
-  <br>
+## 🔥 Streak
+
+<img style="height: 270; width: 100%;" alt="Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=thecodermehedi&theme=github-dark-blue&hide_border=true&stroke=0D1117" />
+
+
+##
+![snake gif](https://github.com/thecodermehedi/thecodermehedi/blob/output/github-contribution-grid-snake-dark.svg)
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=thecodermehedi&color=2563EB&style=for-the-badge&label=👁️👁️"> </p>
+
+
