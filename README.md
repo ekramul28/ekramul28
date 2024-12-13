@@ -91,7 +91,7 @@ Hello, I am **Ekramul Haque**, a junior **full stack developer** based in Dhaka,
 <!-- ![github-stats](https://stats.dooboo.io/api/github-stats?login=thecodermehedi) -->
 
 
-  <img style="height: 270; width: 100%;" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=thecodermehedi&layout=compact&hide_border=true&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats\&rank_icon=github&hide_title=true" >
+  <img style="height: 270; width: 100%;" alt="Stats" src="https://github-readme-stats.vercel.app/api?username=ekramul28&layout=compact&hide_border=true&theme=github_dark&show_icons=true&count_private=true&include_all_commits=true&custom_title=Stats\&rank_icon=github&hide_title=true" >
 
 <!--  <img style="height: 200; width: 49%;" alt="Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thecodermehedi&layout=compact&langs_count=8&hide_border=true&theme=github_dark&hide_title=true" > -->
 
@@ -99,7 +99,7 @@ Hello, I am **Ekramul Haque**, a junior **full stack developer** based in Dhaka,
 
 ## 🔥 Streak
 
-<img style="height: 270; width: 100%;" alt="Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=thecodermehedi&theme=github-dark-blue&hide_border=true&stroke=0D1117" />
+<img style="height: 270; width: 100%;" alt="Streaks" src="https://github-readme-streak-stats.herokuapp.com?user=ekramul28&theme=github-dark-blue&hide_border=true&stroke=0D1117" />
 
 
 
