@@ -18,7 +18,7 @@ Hello, I am **Ekramul Haque**, a junior **full stack developer** based in Dhaka,
 
 ### Profile State
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=mohinranait&theme=violet-punch&border_radius=4&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=ekramul28&theme=violet-punch&border_radius=4&mode=weekly)](https://git.io/streak-stats)
 
 ## My Skill Set
 
